@@ -1,0 +1,16 @@
+{
+  "name": "mockeasy",
+  "version": "1.0.0",
+  "description": "Generador de mockups gratis para camisetas, tazas, hoodies y fundas de celular",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build step required'"
+  },
+  "keywords": ["mockup", "generator", "print-on-demand", "ecommerce"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  }
+}
